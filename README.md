@@ -1,7 +1,7 @@
 <div align="center">
- <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2F4b16d49d-c119-449d-8b85-c8183495e2e4%2FUntitled.png?table=block&id=adb6bf2f-9f64-4c36-bf76-7905dd6d195e&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2" width="50%" >
+ <img src="https://github.com/user-attachments/assets/93bc4328-46d0-48d2-92ac-ebcba0277797" width="50%" >
   <br><br>
-  <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2F1a99593f-2dfd-46a9-a526-dd55bc6f3c68%2FUntitled.png?table=block&id=5afb6897-4b8b-4c3d-8228-e1069bf222a4&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2" width="30%">
+  <img src="https://github.com/user-attachments/assets/740d348e-f0cd-43a0-a89c-6838fb8c4c68" width="30%">
   <br><br>
 
   <span>
@@ -18,6 +18,8 @@
   <br><br>
 </div>
 
+<br>
+
 ## 💖 서비스 소개
 
 > 미연시 컨셉을 기반으로 한 연락처 관리 앱, **미녀들! 내 연락처에 get!**
@@ -30,22 +32,25 @@
 
 ✨  이벤트 설정해 실제 랜덤으로 설정된 알림 메시지를 받아볼 수 있어요!
 
+<br>
+
 ## 💖 디자인 소개
 
 > 미연시 스타일의 어딘지 모르게 허접한 UI를 구현
 
 ### 💌 폰트
 
-![Font System](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2F800020c3-9251-4752-a644-00558ac265eb%2FUntitled.png?table=block&id=773f95fd-d47b-47e4-90a1-60db618f63f8&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2)
+![Font System](https://github.com/user-attachments/assets/7c759fa5-2133-43b0-8b58-93b6eb3b94cd)
 
 ### 💌 색상
 
-![Color System](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2Fe2a55a2c-ac76-4ccf-a26e-d6ef826b3b37%2FUntitled.png?table=block&id=19ecc1b4-b19e-4409-b3a4-694d7a421259&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2)
+![Color System](https://github.com/user-attachments/assets/397a90fe-21c7-42b6-a586-ff137042272c)
 
 ### 💌 전체적인 디자인
 
-![Design System](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2Ff76ff2dd-85f4-4baf-8b7b-40d87e0eaa4f%2FUntitled.png?table=block&id=464d79d2-56f7-45b9-bee4-06cf801cc851&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2)
+![Design System](https://github.com/user-attachments/assets/f533511b-fb70-4e09-aaa3-3b94618e30bb)
 
+<br>
 
 ## 💖 세부 기능 소개
 
@@ -62,10 +67,12 @@
 <th><b>StartActivity</b></td>
 </tr>
 <tr>
-<td><img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2Fe49747b0-7593-49fc-8756-b7b1fa700df1%2FUntitled.png?table=block&id=f8b34b12-cbde-4e2f-ac42-a0d104c35bbe&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2" width="320px" /></td>
+<td><img src="https://github.com/user-attachments/assets/e7fee0cd-81f5-43ea-a3c8-8318eef1763b" width="320px" /></td>
 <td><img src="https://github.com/user-attachments/assets/4e7b7880-f6dd-4ba2-adfb-bb174f978fb4" width="320px" /></td>
 </tr>
 </table>
+
+<br>
 
 ### 💌 연락처 목록 조회
 
@@ -90,6 +97,8 @@
 </tr>
 </table>
 
+<br>
+
 ### 💌 연락처 추가
 
 ✨ 새로운 미소녀의 연락처를 추가
@@ -112,6 +121,8 @@
 <td><img src="https://github.com/user-attachments/assets/ae9c11bf-0fd9-4fec-b953-39f2bee334d6" width="320px" /></td>
 </tr>
 </table>
+
+<br>
 
 ### 💌 상세 정보
 
@@ -140,6 +151,8 @@
 </tr>
 </table>
 
+<br>
+
 ### 💌 내 정보
 
 ✨ 사용자 정보 편집
@@ -158,6 +171,8 @@
 <td><img src="https://github.com/user-attachments/assets/d46ae138-c14d-47a7-a6ff-aa9470551e86" width="320px" /></td>
 </tr>
 </table>
+
+<br>
 
 ### 💌 랜덤 전화
 
@@ -180,9 +195,13 @@
 </tr>
 </table>
 
+<br>
+
 ## 💖 기술 스택
 
-![Tech Stack](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe056959e-0d34-4961-abff-aedb29af1a85%2Faf5cb58e-d6bf-4e0f-a257-58395e0c6f88%2FUntitled.png?table=block&id=0e4ccaee-d8e4-4b6f-afec-ee1b03d8aa70&spaceId=e056959e-0d34-4961-abff-aedb29af1a85&width=2000&userId=aff6a4cb-6a70-4741-9c38-f6b264847827&cache=v2)
+![Tech Stack](https://github.com/user-attachments/assets/06d459f1-2995-4965-a8c8-e1fea973149d)
+
+<br>
 
 ## 💖 팀원 소개
 
